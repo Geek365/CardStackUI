@@ -1,0 +1,4 @@
+[submodule "PrefCompat"]
+	path = PrefCompat
+	url = https://github.com/tushar-acharya/PrefCompat
+	branch = master
